@@ -1,0 +1,245 @@
+{
+    "updated_at": "2024-07-24 09:10:08 Europe\/Paris",
+    "movies": [
+        {
+            "id": 2113,
+            "title": "The Bikeriders",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Jeff Nichols",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 116,
+            "release": "2024-06-19",
+            "synopsis": "Dans les ann\u00e9es 1960. L'ascension d'un club de motards fictif du Midwest vu \u00e0 travers la vie de ses membres passant d'un lieu de rassemblement pour les marginaux locaux \u00e0 un gang plus dangereux.",
+            "hours": 1,
+            "minutes": 56,
+            "screenings": [
+                {
+                    "id": 4772,
+                    "options": 2,
+                    "open": "2024-07-26 20:00:00 Europe\/Paris",
+                    "start": "2024-07-26 20:30:00 Europe\/Paris",
+                    "end": "2024-07-26 22:26:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "306937",
+            "updated_at": "2024-06-24 21:42:51 Europe\/Paris",
+            "first": "2024-07-26 20:30:00 Europe\/Paris",
+            "last": "2024-07-26 20:30:00 Europe\/Paris",
+            "genres": [
+                "Drame,",
+                " Policier"
+            ],
+            "casting": [
+                "Tom Hardy",
+                "Boyd Holbrook",
+                "Michael Shannon",
+                "Jodie Comer",
+                "Austin Butler"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2113.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2113.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2113.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2113.jpg"
+            }
+        },
+        {
+            "id": 2114,
+            "title": "Les Fant\u00f4mes",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Jonathan Millet",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 106,
+            "release": "0000-00-00",
+            "synopsis": "Strasbourg, aujourd\u2019hui. Hamid explore me\u0301thodiquement la ville. Il est l\u2019un des membres de la cellule Yaqaza, une organisation secre\u0300te de citoyens syriens qui poursuivent les criminels de guerre. Il suit la piste de son ancien bourreau dont il n\u2019a jamais vu le visage. Sur une intuition, il se met a\u0300 suivre un homme, jusqu\u2019a\u0300 l\u2019obsession.",
+            "hours": 1,
+            "minutes": 46,
+            "screenings": [
+                {
+                    "id": 4773,
+                    "options": 2,
+                    "open": "2024-07-27 20:00:00 Europe\/Paris",
+                    "start": "2024-07-27 20:30:00 Europe\/Paris",
+                    "end": "2024-07-27 22:16:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "300935",
+            "updated_at": "2024-06-24 21:43:07 Europe\/Paris",
+            "first": "2024-07-27 20:30:00 Europe\/Paris",
+            "last": "2024-07-27 20:30:00 Europe\/Paris",
+            "genres": [
+                "Drame"
+            ],
+            "casting": [
+                "Adam Bessa",
+                "Tawfeek Barhom"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2114.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2114.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2114.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2114.jpg"
+            }
+        },
+        {
+            "id": 2115,
+            "title": "Zak & Wowo, la l\u00e9gende de Lendarys",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Philippe Duch\u00eane",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 85,
+            "release": "2024-07-10",
+            "synopsis": "Dans un monde aux paysages verdoyants, l'apparition de terrifiantes cr\u00e9ature contraint tous les habitants \u00e0 se r\u00e9fugier dans une ville fortifi\u00e9e. Seuls les intr\u00e9pides jumeaux Zak et Kyle sont rest\u00e9s \u00e0 l'ext\u00e9rieur. Mais Kyle dispara\u00eet subitement, sans laisser de trace. Son fr\u00e8re Zak part \u00e0 sa recherche et rencontre sur son chemin Wowo, pachyderme poilu, et Indiana, myst\u00e9rieuse hors la loi. Ensemble, ils se lancent dans une aventure extraordinaire pour sauver le monde merveilleux qui les entoure.",
+            "hours": 1,
+            "minutes": 25,
+            "screenings": [
+                {
+                    "id": 4774,
+                    "options": 2,
+                    "open": "2024-07-28 10:00:00 Europe\/Paris",
+                    "start": "2024-07-28 10:30:00 Europe\/Paris",
+                    "end": "2024-07-28 11:55:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "326928",
+            "updated_at": "2024-06-24 21:43:23 Europe\/Paris",
+            "first": "2024-07-28 10:30:00 Europe\/Paris",
+            "last": "2024-07-28 10:30:00 Europe\/Paris",
+            "genres": [
+                "Animation,",
+                " Famille,",
+                " Action,",
+                " Aventure"
+            ],
+            "casting": [
+                "Kyan Khojandi",
+                "Manu Payet",
+                "Clara Luciani",
+                "J\u00e9r\u00f4me Niel"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2115.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2115.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2115.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2115.jpg"
+            }
+        },
+        {
+            "id": 2074,
+            "title": "Un p\u2019tit truc en plus",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": " Artus",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 99,
+            "release": "2024-05-01",
+            "synopsis": "Pour \u00e9chapper \u00e0 la police, un fils et son p\u00e8re en cavale sont contraints de trouver refuge dans une colonie de vacances pour jeunes adultes en situation de handicap, se faisant passer pour un pensionnaire et son \u00e9ducateur sp\u00e9cialis\u00e9. Le d\u00e9but des emmerdes et d\u2019une formidable exp\u00e9rience humaine qui va les changer \u00e0 jamais.",
+            "hours": 1,
+            "minutes": 39,
+            "screenings": [
+                {
+                    "id": 4778,
+                    "options": 2,
+                    "open": "2024-07-28 20:00:00 Europe\/Paris",
+                    "start": "2024-07-28 20:30:00 Europe\/Paris",
+                    "end": "2024-07-28 22:09:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "318031",
+            "updated_at": "2024-05-01 11:55:29 Europe\/Paris",
+            "first": "2024-07-28 20:30:00 Europe\/Paris",
+            "last": "2024-07-28 20:30:00 Europe\/Paris",
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "casting": [
+                "Clovis Cornillac",
+                "Alice Bela\u00efdi",
+                "Artus",
+                "Marc Riso",
+                "C\u00e9line Groussard"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2074.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2074.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2074.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2074.jpg"
+            }
+        },
+        {
+            "id": 2116,
+            "title": "Pourquoi tu souris ?",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Chad Chenouga",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 95,
+            "release": "2024-07-03",
+            "synopsis": "Wisi, sourire aux l\u00e8vres malgr\u00e9 la gal\u00e8re, d\u00e9barque \u00e0 Bordeaux pour refaire sa vie. Afin d\u2019\u00e9viter la rue, il se fait passer pour un migrant aupr\u00e8s de Marina, qui compense sa solitude en s\u2019impliquant dans l\u2019action humanitaire. Ils rencontrent Je\u0301ro\u0302me, lui aussi a\u0300 la rue, atteint de phobie du travail et qui va entrainer en secret Wisi dans une inavouable entreprise. L\u2019improbable trio va -t-il tout perdre\u2026 ou tout gagner ?",
+            "hours": 1,
+            "minutes": 35,
+            "screenings": [
+                {
+                    "id": 4775,
+                    "options": 2,
+                    "open": "2024-07-29 20:00:00 Europe\/Paris",
+                    "start": "2024-07-29 20:30:00 Europe\/Paris",
+                    "end": "2024-07-29 22:05:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "302290",
+            "updated_at": "2024-06-24 21:43:39 Europe\/Paris",
+            "first": "2024-07-29 20:30:00 Europe\/Paris",
+            "last": "2024-07-29 20:30:00 Europe\/Paris",
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "casting": [
+                "Judith Magre",
+                "Emmanuelle Devos",
+                "Hubert Myon",
+                "Jean-Pascal Zadi",
+                "Rapha\u00ebl Quenard"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2116.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2116.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2116.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2116.jpg"
+            }
+        }
+    ]
+}
