@@ -1,0 +1,55 @@
+.carousel-wrapper {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.splide__slide img {
+  width: 50%;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
+
+.splide__pagination {
+  bottom: -6vh;
+}
+
+.splide__pagination li {
+  background-color: transparent;
+}
+
+.splide__pagination__page {
+  background: black !important;
+}
+
+.carousel-caption {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+.splide__arrow {
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+.splide__arrow--prev {
+  left: -50px;
+}
+
+.splide__arrow--next {
+  right: -50px; 
+}
+
+.splide__slide {
+  padding: 0;
+  background-color: transparent;
+}
+
+.splide__pagination__page.is-active {
+  background: #000;
+}
