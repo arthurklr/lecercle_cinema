@@ -1,0 +1,110 @@
+/* Movies.css */
+h3{
+  margin: 3%;
+}
+
+p{
+  margin: 0;
+}
+
+.movies-list {
+  list-style-type: none;
+  margin-top: 50px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  margin-bottom: 30px;
+}
+
+.movie-item {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  overflow: hidden;
+  border-radius: 10px;
+  background-color: transparent;
+  transition: 0.3s;
+}
+
+.movie-item:hover{
+  transform: scale(1.1,1.1);
+}
+
+.affiche_film {
+  height: 300px;
+  width: 225px;
+  border-radius: 10px;
+}
+
+.info_horaires {
+  position: absolute;
+  top: 20px;
+  width: 60%;
+  height: 10%;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 10px;
+  border-radius: 10px 0 10px 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.info_carre {
+  position: absolute;
+  bottom: 23px;
+  width: 75%;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 10px;
+  border-radius: 0 0 10px 10px;
+  box-sizing: border-box;
+}
+
+.titre_film {
+  font-weight: bold;
+  color: white;
+  background-color: transparent;
+  text-align: center;
+  font-size: 11px;
+}
+
+.duree_affiche {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+}
+
+.duree_affiche>img {
+  width: 9%;
+  height: 9%;
+}
+
+.genre_affiche {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+}
+
+.genre_affiche>span{
+  text-align: left;
+}
+
+.genre_affiche>img {
+  width: 9%;
+  height: 9%;
+}
+
+.info_titre{
+  position: absolute;
+  color: black;
+  text-align: center;
+  width: 75%;
+  font-size: 80%;
+  font-weight: bold;
+}
